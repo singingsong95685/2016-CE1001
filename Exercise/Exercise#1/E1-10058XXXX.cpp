@@ -1,10 +1,9 @@
 /*****************************************
 * Exercise1
-* Name: ±i¶£¿«
+* Name: å¼µé–Žç¿°
 * Student Number: 1XX5820XX
 *Course: 2016-CE1001-A or B
 ******************************************/
-
 
 #include <iostream>
 
@@ -12,9 +11,9 @@ using namespace std;
 
 int main()
 {
-    cout << "¨t¯Å:¸ê¤u¨t1B"<<endl;
-    cout << "¾Ç¸¹:10058XXXX" << endl;
-    cout << "©m¦W:XXX"<<endl;
+    cout << "ç³»ç´š:è³‡å·¥ç³»1B"<<endl;
+    cout << "å­¸è™Ÿ:10058XXXX" << endl;
+    cout << "å§“å:XXX"<<endl;
 
     return 0;
 }
