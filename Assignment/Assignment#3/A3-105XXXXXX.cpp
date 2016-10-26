@@ -4,23 +4,23 @@ using namespace std;
 
 int main()
 {
-	int n = 0;
-	int i = 0, j = 0;
-	int count = 0;
+     int n = 0;
+     int i = 0, j = 0;
+     int count = 0;
 
      cout << "input N:";
      cin >> n;
      cout <<"f("<< n << "):";
 
-     for (i = 1; i <= n; i++)    //¦]factor(x) factor count (x)
+     for (i = 1; i <= n; i++)    //Â¦]factor(x) factor count (x)
 	{
 		if (n%i == 0)
 			{
-			cout << i<<" " ;
-			count++;
+			   cout << i<<" " ;
+			   count++;
 			}
 	}
-    cout << endl;
+        cout << endl;
 	cout << "factor count (" << n <<"):" << count << "\n";
 
 	if (n >= 2)                                //1~X prime number
@@ -50,13 +50,11 @@ int main()
 		{
 			cout << k << " ";
 		}
-
 		k++;
-
 	}
+	
 	if(n<3)
-        cout << "not exist" <<endl;
+        cout << "not exist" <<endl<<endl;
 
-	cout << endl;
 	return 0;
 }
