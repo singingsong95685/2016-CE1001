@@ -1,8 +1,8 @@
 /*****************************************
-* Exercise2
+* Exercise 2
 * Name: TA
 * Student Number: 10058XXXX
-* Course: 2016-CE1003-A or B
+* Course: 2016-CE1001-A or B
 ******************************************/
 #include <iostream>
 using namespace std;
